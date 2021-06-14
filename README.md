@@ -3,6 +3,6 @@
 
 ## Contents
 - [Getting Started with Grasshopper](#Getting-started-Grasshopper)
-- [Getting Started with Creative Code](#Getting-started-Creative-Code-:art:)
+- [Getting Started with Creative Code:art:](#Getting-started-Creative-Code)
 - [Introduction to Computational Design](#Introduction-to-Computational-Design)
-- [Getting Started with Machine Learning](#Getting-started-Machine-Learning-:robot:)
+- [Getting Started with Machine Learning:robot:](#Getting-started-Machine-Learning)
