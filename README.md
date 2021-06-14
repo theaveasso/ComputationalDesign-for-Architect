@@ -43,4 +43,3 @@
 - [FIU DDES Lectures_Theories of the Digital](https://www.youtube.com/playlist?list=PLjgJTkiYXdLfjR2Lf31_A9huoSPVWomhm) - AI and Architecture Talk Hosted by FIU
 - [Artificial Images](https://www.youtube.com/user/bustbright) - A Tutorials are all about Generative art using AI.
 - [Nono Martínez Alonso](https://www.youtube.com/channel/UCTn8RnMFvQWxSOZBo06e_Ew) - Live streamed Using Machine Learning, Talks, Tutorials about Machine Intelligence.
-- 
