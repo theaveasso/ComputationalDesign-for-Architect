@@ -9,5 +9,5 @@
 - [Getting Started with Machine Learning 🤖](#Getting-started-Machine-Learning)
 
 ## People to Follow
-[DigitalFUTURES world](https://www.youtube.com/channel/UCHN43U7Xe0oKfPUDkJrojAg)
-[YourDesk University](https://www.youtube.com/channel/UCYVf4Mqp0xqTnfMbkwYVnkw)
+- [DigitalFUTURES world](https://www.youtube.com/channel/UCHN43U7Xe0oKfPUDkJrojAg)
+- [YourDesk University](https://www.youtube.com/channel/UCYVf4Mqp0xqTnfMbkwYVnkw)
