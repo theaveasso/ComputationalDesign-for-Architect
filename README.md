@@ -18,7 +18,7 @@
 
 ## Getting Started with Grasshopper
 - [Grasshopper Guides](https://developer.rhino3d.com/guides/grasshopper) - Guides to creating custom Grasshopper components and plugins.
-- [Introduction to Parametric Modeling](https://www.youtube.com/playlist?list=PLx3k0RGeXZ_ym9r2mI2NdnYkoLUPSvXqP) - "Introduction to Parametric Modeling", where teaching you the basics of using algorithms for creating three-dimensional geometry using Rhinoceros and Grasshopper! 🤓💻📐💎.
+- [Introduction to Parametric Modeling](https://www.youtube.com/playlist?list=PLx3k0RGeXZ_ym9r2mI2NdnYkoLUPSvXqP) - "Introduction to Parametric Modeling", where teaching you the basics of using algorithms for creating three-dimensional geometry using Rhinoceros and Grasshopper.
 - [Getting Start with Grasshopper](https://www.youtube.com/playlist?list=PL46eCQifWhqLNEDqIhtWpZmLlZwadKz6u) - Understand the fundamental of Grasshopper taught by David Rutten.
 - [Intro to Grasshopper](https://www.youtube.com/playlist?list=PLGV167zE8gnUzZxgWwPkqPQrofJsXtB4g) - Intro to Grasshopper by Mode Lab.
 - [Grasshopper for Beginner](https://www.youtube.com/playlist?list=PLq-KJ9jF26E2MBIBVKh6cu0O_wJ_1Cq5G) - Webinars taught by Gediminas Kirdeikis --LTH University.
@@ -28,3 +28,10 @@
 - [Introducint to Processing](https://thecodingtrain.com/Courses/learning-processing) - Video lessons accompany the introduction from The Learning Processing book by Daniel Shiffman.
 - [Introducing to P5.js](https://thecodingtrain.com/beginners/p5js) - Explain how computational media is different from traditional media using P5.js by Daniel Shiffman.
 - [Nature of Code](https://thecodingtrain.com/learning/nature-of-code/) - Video Series accompay The book [Nature of Code](https://natureofcode.com/book/).
+- [Introducing to Arduino](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP) Beginner Hand on [Arduino](https://www.arduino.cc/en/Guide/Introduction) tutorials by Paul McWhorter.
+
+## Introduction to Computational Design
+- [Introduction to Computaional Design](https://www.youtube.com/playlist?list=PLvxxYImPCApUXhX3te3IK32ileXHpzKY4) -  Fall 2019 lecture series for the course GSD-6338: Introduction to Computational Design, taught at the Harvard University Graduate School of Design. 
+- [Learning C#](https://www.youtube.com/playlist?list=PLx3k0RGeXZ_yfAFk4GT3gWdFhwCsODUNb) - Introduction to Computer Programming for Designers teaching the basics of how to write computer code using the C# programming language.
+- [Design Computing: 3D Modeling in Rhinoceros with Python Rhinoscript](https://www.futurelearn.com/courses/design-computing-3d-modeling-in-rhinoceros-with-python-rhinoscript) - The fundamentals of coding in the Python scripting language.
+- 
