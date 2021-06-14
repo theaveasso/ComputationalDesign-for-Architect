@@ -7,7 +7,7 @@
 - [Getting Started with Creative Code 🎨](#Getting-started-Creative-Code)
 - [Introduction to Computational Design 🖥️](#Introduction-to-Computational-Design)
 - [Getting Started with AI/Machine Learning 🤖](#Getting-started-Machine-Learning)
-- [Books & Articles](#Books & Articles)
+- [Books & Articles](#Books-&-Articles)
 
 ## People to Follow
 - [DigitalFUTURES world](https://www.youtube.com/channel/UCHN43U7Xe0oKfPUDkJrojAg) - DigitalFUTURES is an educational platform that has organized an annual series of activities consisting of workshops, lectures, conferences, and exhibitions.
