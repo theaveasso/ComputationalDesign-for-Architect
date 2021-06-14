@@ -18,7 +18,7 @@
 
 ## Getting Started with Grasshopper
 -[Grasshopper Guides](https://developer.rhino3d.com/guides/grasshopper) - Guides to creating custom Grasshopper components and plugins.
--[Introduction to Parametric Modeling](https://www.youtube.com/playlist?list=PLx3k0RGeXZ_ym9r2mI2NdnYkoLUPSvXqP) - "Introduction to Parametric Modeling", where teaching you the basics of using algorithms for creating three-dimensional geometry using Rhinoceros and Grasshopper! 🤓💻📐💎
+-[Introduction to Parametric Modeling](https://www.youtube.com/playlist?list=PLx3k0RGeXZ_ym9r2mI2NdnYkoLUPSvXqP) - "Introduction to Parametric Modeling", where teaching you the basics of using algorithms for creating three-dimensional geometry using Rhinoceros and Grasshopper! 🤓💻📐💎.
 -[Getting Start with Grasshopper](https://www.youtube.com/playlist?list=PL46eCQifWhqLNEDqIhtWpZmLlZwadKz6u) - Understand the fundamental of Grasshopper taught by David Rutten.
 -[Intro to Grasshopper](https://www.youtube.com/playlist?list=PLGV167zE8gnUzZxgWwPkqPQrofJsXtB4g) - Intro to Grasshopper by Mode Lab.
 -[Grasshopper for Beginner](https://www.youtube.com/playlist?list=PLq-KJ9jF26E2MBIBVKh6cu0O_wJ_1Cq5G) - Webinars teached by Gediminas Kirdeikis --LTH University.
