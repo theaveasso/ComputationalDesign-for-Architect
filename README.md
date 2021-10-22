@@ -7,7 +7,7 @@
 - [Getting Started with Creative Code 🎨](#Getting-started-Creative-Code)
 - [Introduction to Computational Design 🖥️](#Introduction-to-Computational-Design)
 - [Getting Started with AI/Machine Learning 🤖](#Getting-started-Machine-Learning)
-- [Books & Articles](#Books-&-Articles)
+- [Books & Articles & Resources](#Books-&-Articles)
 
 ## People to Follow
 - [DigitalFUTURES world](https://www.youtube.com/channel/UCHN43U7Xe0oKfPUDkJrojAg) - DigitalFUTURES is an educational platform that has organized an annual series of activities consisting of workshops, lectures, conferences, and exhibitions.
@@ -43,3 +43,4 @@
 - [FIU DDES Lectures_Theories of the Digital](https://www.youtube.com/playlist?list=PLjgJTkiYXdLfjR2Lf31_A9huoSPVWomhm) - AI and Architecture Talk Hosted by FIU
 - [Artificial Images](https://www.youtube.com/user/bustbright) - A Tutorials are all about Generative art using AI.
 - [Nono Martínez Alonso](https://www.youtube.com/channel/UCTn8RnMFvQWxSOZBo06e_Ew) - Live streamed Using Machine Learning, Talks, Tutorials about Machine Intelligence.
+- [Creative AI for Design Exploration](https://www.youtube.com/playlist?list=PLWu3lkFWPBHnyn_jVtl2aTL8CQFyrMa_k) - An Introduction to Creative AI for Designer
