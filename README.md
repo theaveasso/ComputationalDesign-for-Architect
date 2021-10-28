@@ -33,7 +33,6 @@
 - [Introducing to Arduino](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP) Beginner Hand on [Arduino](https://www.arduino.cc/en/Guide/Introduction) tutorials by Paul McWhorter.
 
 ## Introduction to Computational Design
-- [Introduction to Computaional Design](https://www.youtube.com/playlist?list=PLvxxYImPCApUXhX3te3IK32ileXHpzKY4) -  Fall 2019 lecture series for the course GSD-6338: Introduction to Computational Design, taught at the Harvard University Graduate School of Design. 
 - [Learning C#](https://www.youtube.com/playlist?list=PLx3k0RGeXZ_yfAFk4GT3gWdFhwCsODUNb) - Introduction to Computer Programming for Designers teaching the basics of how to write computer code using the C# programming language.
 - [Design Computing: 3D Modeling in Rhinoceros with Python Rhinoscript](https://www.futurelearn.com/courses/design-computing-3d-modeling-in-rhinoceros-with-python-rhinoscript) - The fundamentals of coding in the Python scripting language.
 - [Essential Mathematics for Computational Design](https://www.rhino3d.education/p/rajaa) - Introduces to design professionals the foundation mathematical concepts that are necessary for effective development of computational methods for 3D modeling and computer graphics.
