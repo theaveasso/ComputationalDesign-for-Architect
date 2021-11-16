@@ -8,6 +8,7 @@
 - [Introduction to Computational Design 🖥️](#Introduction-to-Computational-Design)
 - [Getting Started with AI/Machine Learning 🤖](#Getting-started-Machine-Learning)
 - [Books & Articles & Resources](#Books-&-Articles)
+- [Additional Resources](#Additinal Resources)
 
 ## People to Follow
 - [DigitalFUTURES world](https://www.youtube.com/channel/UCHN43U7Xe0oKfPUDkJrojAg) - DigitalFUTURES is an educational platform that has organized an annual series of activities consisting of workshops, lectures, conferences, and exhibitions.
@@ -43,3 +44,11 @@
 - [Artificial Images](https://www.youtube.com/user/bustbright) - A Tutorials are all about Generative art using AI.
 - [Nono Martínez Alonso](https://www.youtube.com/channel/UCTn8RnMFvQWxSOZBo06e_Ew) - Live streamed Using Machine Learning, Talks, Tutorials about Machine Intelligence.
 - [Creative AI for Design Exploration](https://www.youtube.com/playlist?list=PLWu3lkFWPBHnyn_jVtl2aTL8CQFyrMa_k) - An Introduction to Creative AI for Designer
+
+
+## Additional Resources
+- Learning new software:
+- [Houdini](https://www.sidefx.com/)
+  - [Houdini isn't scary](https://www.youtube.com/playlist?list=PLhyeWJ40aDkUDHDOhZQ2UkCfNiQj7hS5W) - Quick introduction to Houdini
+  - [Houdini Official Learn](https://www.sidefx.com/learn/getting_started/) Covered a wide of Houdini tutorials from beginner to advance
+
