@@ -48,7 +48,7 @@
 
 ## Additional Resources
 - Learning new software:
-- [Houdini](https://www.sidefx.com/)
-  - [Houdini isn't scary](https://www.youtube.com/playlist?list=PLhyeWJ40aDkUDHDOhZQ2UkCfNiQj7hS5W) - Quick introduction to Houdini
-  - [Houdini Official Learn](https://www.sidefx.com/learn/getting_started/) Covered a wide of Houdini tutorials from beginner to advance
+  - [Houdini](https://www.sidefx.com/)
+    - [Houdini isn't scary](https://www.youtube.com/playlist?list=PLhyeWJ40aDkUDHDOhZQ2UkCfNiQj7hS5W) - Quick introduction to Houdini
+    - [Houdini Official Learn](https://www.sidefx.com/learn/getting_started/) Covered a wide of Houdini tutorials from beginner to advance
 
