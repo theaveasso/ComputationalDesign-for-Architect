@@ -51,4 +51,5 @@
   - [Houdini](https://www.sidefx.com/)
     - [Houdini isn't scary](https://www.youtube.com/playlist?list=PLhyeWJ40aDkUDHDOhZQ2UkCfNiQj7hS5W) - Quick introduction to Houdini
     - [Houdini Official Learn](https://www.sidefx.com/learn/getting_started/) Covered a wide of Houdini tutorials from beginner to advance
+    - [Entagma](https://www.youtube.com/channel/UCWu6SQmC6nAZ-reuj3lF2eQ) Covered a lot of Best tutorials of Houdini
 
