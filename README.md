@@ -19,6 +19,7 @@
 - [ParametricCamp](https://www.youtube.com/channel/UCSgG9KzVsS6jArapCx-Bslg) - Computational Design Tutorials and LiveStreams
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) - A YouTube channel dedicated to beginner-friendly creative coding tutorials and challenges taught by Daniel Shiffman.
 - [Getting Simple Podcast](https://gettingsimple.com/podcast) - Do Less, Better Getting Simple is a podcast about how you can live a more meaningful, creative, and simple life.
+- [EngineeringArchiTECHure](https://www.youtube.com/c/EngineeringArchiTECHure) - A wide range of conversation with people in AEC tech hosted by [Mayur Mistry](https://twitter.com/mistrymm7)
 
 ## Getting Started with Grasshopper
 - [Grasshopper Guides](https://developer.rhino3d.com/guides/grasshopper) - Guides to creating custom Grasshopper components and plugins.
