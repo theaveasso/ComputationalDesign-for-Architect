@@ -7,6 +7,7 @@
 - [Getting Started with Creative Code 🎨](#Getting-started-Creative-Code)
 - [Introduction to Computational Design 🖥️](#Introduction-to-Computational-Design)
 - [Getting Started with AI/Machine Learning 🤖](#Getting-started-Machine-Learning)
+- [Machine Learning and Deep Learning](#Machine Learning and Deep Learning)
 - [Books & Articles & Resources](#Books-&-Articles)
 - [Additional Resources](#Additinal-Resources)
 
@@ -45,6 +46,8 @@
 - [Nono Martínez Alonso](https://www.youtube.com/channel/UCTn8RnMFvQWxSOZBo06e_Ew) - Live streamed Using Machine Learning, Talks, Tutorials about Machine Intelligence.
 - [Creative AI for Design Exploration](https://www.youtube.com/playlist?list=PLWu3lkFWPBHnyn_jVtl2aTL8CQFyrMa_k) - An Introduction to Creative AI for Designer
 
+## Machine Learning and Deep Learning
+- Google Colab Code snippet
 
 ## Additional Resources
 - Learning new software:
